@@ -1,4 +1,4 @@
-# John Doe — Portfolio (My-Website)
+# Abdul Kudus — Portfolio (My-Website)
 
 A simple, responsive portfolio website built with plain HTML, Tailwind CSS (via CDN), and a few small JavaScript helpers for mobile navigation and scroll animations.
 
